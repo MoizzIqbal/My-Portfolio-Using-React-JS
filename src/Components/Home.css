@@ -1,0 +1,32 @@
+ 
+.navbar{
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0.2rem;
+    background-color: rgba(0, 0, 0, 00.6) !important;
+    text-transform: uppercase;
+    padding: 20px 0 !important;
+}
+.navbar .navbar-nav .nav-link{
+    color: #fff !important;
+    padding-left: 20px !important ;
+}
+.navbar .navbar-nav .nav-link:active,
+.navbar .navbar-nav .nav-link:hover{
+    color: #1ebba3 !important;
+}
+.background{
+    background-image: url("../Images/back1.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+.heading-content{
+position: relative;
+top: 13rem;
+    letter-spacing: 10px;
+}
+.cv{
+    letter-spacing: normal;
+}
